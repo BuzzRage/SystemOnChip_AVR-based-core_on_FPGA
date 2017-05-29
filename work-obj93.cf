@@ -1,7 +1,0 @@
-v 3
-file . "compteur_tb.vhdl" "20161115191709.000" "20161115201716.839":
-  entity compteur_tb at 7( 241) + 0 on 31;
-  architecture tb of compteur_tb at 15( 345) + 0 on 32;
-file . "compteur.vhdl" "20161115185828.000" "20161115201716.819":
-  entity compteur at 7( 246) + 0 on 29;
-  architecture behavioral of compteur at 20( 569) + 0 on 30;
