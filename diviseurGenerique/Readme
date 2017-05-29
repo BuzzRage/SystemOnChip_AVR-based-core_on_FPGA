@@ -1,0 +1,10 @@
+GENERICS:
+  clkdiv: positive := 8; -- 26 pour 1Hz
+INPUTS:
+  clk : in  STD_LOGIC;
+	reset: in STD_LOGIC;
+	enable : in STD_LOGIC;
+OUPUTS:   
+  clk_out : out STD_LOGIC;
+  tc0 : out  STD_LOGIC;
+  tc1 : out  STD_LOGIC);
