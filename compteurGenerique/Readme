@@ -1,0 +1,10 @@
+Compteur générique:
+
+GENERICS:
+  Nbits: integer := 4;
+	Nmax : integer := 9;
+INPUTS:
+   clk : in  STD_LOGIC;
+   reset : in  STD_LOGIC;   
+OUTPUTS:
+   Q : out  STD_LOGIC_VECTOR(Nbits-1 downto 0);
