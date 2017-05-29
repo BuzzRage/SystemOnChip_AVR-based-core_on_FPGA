@@ -1,0 +1,6 @@
+INPUTS:
+  clk : in  STD_LOGIC;
+  rst : in  STD_LOGIC;
+  entree : in  STD_LOGIC;
+OUTPUTS:
+  tc : out  STD_LOGIC;
