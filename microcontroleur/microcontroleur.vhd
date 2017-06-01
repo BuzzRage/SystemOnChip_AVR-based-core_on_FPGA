@@ -1,13 +1,11 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: Jacques Mahoudeaux & Marius Letourneau
 -- 
 -- Create Date:    08:57:48 08/26/2014 
 -- Design Name: 
 -- Module Name:    microcontroleur - microcontroleur_architecture 
 -- Project Name: 
--- Target Devices: 
--- Tool versions: 
+-- Target Devices: FPGA Spartan3E
 -- Description: 
 --
 -- Dependencies: 
